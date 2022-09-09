@@ -1,54 +1,60 @@
-#### :dollar: DSMovie - Listagem e avaliação de filmes.
+<img alt="DSVendas" src="./.github/banner.svg">
 
-<ol align="left">
- <li><strong><a href="#--sobre-o-projeto">Sobre</a></strong></li>
- <li><strong><a href="#--tecnologias">Tecnologias</a></strong></li>
- <li><strong><a href="#--aprendizados-back-end">Aprendizados Back-end</a></strong></li>
- <li><strong><a href="#--aprendizados-front-end">Aprendizados Front-end</a></strong></li>
-</ol>
+<p align="center"> 
+  
+  <a href="https://github.com/driica">
+    <img alt="Desenvolvido por Adriana Beatriz" src="https://img.shields.io/badge/Desenvolvedora-Adriana_Beatriz-%3498db?color=ff8400&style=for-the-badge">
+  </a>
+  
+<p>
 
-🌎 **Acesse agora:**
+<p align="center">
+ <a href="#movie_camera-demonstração">Demonstração</a> •
+ <a href="#information_source-sobre">Sobre</a> •
+ <a href="#memo-tarefas">Tarefas</a> •
+ <a href="#dvd-executar">Executar</a> •
+ <a href="#hammer-tecnologias">Tecnologias</a> •
+ <a href="#girl-autora">Autora</a> 
+ </p>
 
-<a href="dsmovie-beatrizdalto.netlify.app/" target="_blank" title="acessar o site"><strong>https://dsmovie-beatrizdalto.netlify.app</strong></a>
-[]()
+---
+## :movie_camera: **Demonstração**
 
-<h1 style="padding: 50px; background: #333333;">
-    <img alt="site dsmovie" title="#site dsmovie" src="https://github.com/beatrizdalto/dsmovie-java-react-devsuperior/blob/main/mobile-demo.png" width=360px/>
-</h1>
+<p align="center">
+  <b> :computer: WEB </b>
+</p>
 
-<br />
+<p align="center">
+  <kbd>
+    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src="demonstração.png">
+  </kbd>
+</p>
 
-### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--sobre-o-projeto) 🔥 Sobre o projeto
+
+### [](https://github.com/driica/dsmovie-java-react-devsuperior#--sobre-o-projeto) 🔥 Sobre o projeto
 
 Semana Spring React - Evento promovido pela escola DevSuperior em 01/2022.
 
 A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back-end construído com Spring Boot e front-end com React e Bootstrap.
 
-<br />
 
-### :space_invader: Modelo Conceitual
+---
+## :hammer: **Tecnologias**
 
-<h1 style="padding: 50px; background: #333333;">
-    <img alt="modelo conceitual dsvendas" title="#modelo conceitual dsvendas" src="https://github.com/beatrizdalto/dsmovie-java-react-devsuperior/blob/main/modelo-conceitual-dsmovie.jpg" width=480px/>
-</h1>
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
-<br />
+<div align="center">
 
-### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--tecnologias) 🤖 Tecnologias
+|:globe_with_meridians: Frontend|:file_cabinet: Backend|
+|:---:|:---:|
+|[React](https://reactjs.org)|[JAVA 11](https://www.java.com)|
+|[Bootstrap 5.0](https://getbootstrap.com)|[Spring Boot](https://spring.io/projects/spring-boot)|
+|[Typescript](https://www.typescriptlang.org)|[Hibernate JPA](https://hibernate.org/)|
+|[React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)|[PostgreSQL](https://www.postgresql.org)|
+|[axios](https://axios-http.com)||[H2 Database](https://www.h2database.com/html/main.html)|
 
-- **Java 11**
-- **Spring Boot**
-- **Hibernate JPA**
-- **React**
-- **React Router DOM**
-- **Bootstrap**
-- **Typescript**
-- **H2 Database**
-- **PostgreSQL**
-- **Axios**
-- **Postman**
-- **VSCode**
-- **Eclipse**
+
+</div>
 
 ### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--backend) 🎉 Aprendizados Back-end
 
@@ -76,24 +82,19 @@ A aplicação consiste em fazer uma busca paginada e avaliação de filmes. Back
   - useParams
   - useNavigate
 
-#### **Hospedagem do site** : <a href="https://netlify.com" target="_blank" title="acessar o site"><strong>https://www.netlify.com/</strong></a>
-
-#### **Hospedagem da API** : <a href="https://www.heroku.com" target="_blank" title="acessar o site"><strong>https://www.heroku.com</strong></a>
-
 <br />
 
-### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--autor) 💎 Autor
+---
 
-<a href="https://linktr.ee/beatriz.dadalto">
- <img style="border-radius: 8px" src="https://avatars.githubusercontent.com/u/29661219?s=460&u=42024e42215c64adeba9a923579809c57f36fe0d&v=4" width="100px;" alt="Beatriz Dalto"/>
-<br />
-<sub><strong>Beatriz Dalto</strong></sub></a>
+### [](https://github.com/driica/DSvendas#--autor) 💎 Autora 
+<img style="border-radius: 8px" src="https://github.com/driica.png" width="100px;" alt="Adriana Beatriz"/>
 
-<br />
-<br />
 
-:point_down: Entre em contato.
+---
+## :page_facing_up: **Licença**
 
-<br />
+<div align="center">
+  
+<p>Copyright © 2022 <strong>Adriana Beatriz.</strong></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatrizdalto)](https://www.linkedin.com/in/beatrizdalto)
+</div>
