@@ -67,7 +67,6 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
   - Controllers
   - Repositories
 - Criar endpoints da API REST
-- Implantação na nuvem (Heroku e Netlify)
 
 ### [](https://github.com/beatrizdalto/dsmovie-java-react-devsuperior#--frontend) 🎉 Aprendizados Front-end
 
