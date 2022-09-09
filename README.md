@@ -1,4 +1,4 @@
-<img alt="DSVendas" src="./.github/banner.svg">
+<img alt="DSVendas" src="banner.svg">
 
 <p align="center"> 
   
@@ -26,7 +26,7 @@
 
 <p align="center">
   <kbd>
-    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src="demonstração.png">
+    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src="demonstracao.png">
   </kbd>
 </p>
 
